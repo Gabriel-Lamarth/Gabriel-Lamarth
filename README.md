@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel-Lamarth
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning QT (with C++) and a little bit of Rust
 - 📫 How to reach me: gabriellamarth.c@gmail.com
 
 <!---
